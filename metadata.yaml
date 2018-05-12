@@ -1,4 +1,5 @@
 _repo: The-Junior-Classics-Volume-8-Animal-and-Nature-Stories_8075
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,7 +8,12 @@ contributor:
       deathdate: 1936
       gutenberg_agent_id: '1118'
       url: http://www.gutenberg.org/2009/agents/1118
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8075#The-Junior-Classics-Volume-8-Animal-and-Nature-Stories
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
